@@ -72,7 +72,7 @@ function HeroSection() {
                 {CANDIDATE_IMAGE_URL ? (
                   <img 
                     src={CANDIDATE_IMAGE_URL} 
-                    alt="मनीक बहादुर सिंह" 
+                    alt="मनिक बहादुर सिंह" 
                     className="w-full h-auto object-cover"
                   />
                 ) : (
@@ -81,7 +81,7 @@ function HeroSection() {
                       <div className="w-48 h-60 md:w-56 md:h-72 mx-auto bg-gradient-to-br from-yellow-200 to-yellow-400 rounded-lg flex items-center justify-center mb-4 shadow-lg">
                         <span className="text-6xl">👤</span>
                       </div>
-                      <p className="text-white text-sm md:text-base font-semibold">मनीक बहादुर सिंह</p>
+                      <p className="text-white text-sm md:text-base font-semibold">मनिक बहादुर सिंह</p>
                       <p className="text-white/80 text-xs md:text-sm">पीले पगड़ी, पीले कुर्ता, काले चश्मे</p>
                     </div>
                   </div>

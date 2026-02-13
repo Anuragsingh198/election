@@ -6,7 +6,7 @@ function PublicFeedback() {
           आपकी राय महत्वपूर्ण है
         </h2>
         <p className="text-gray-700 text-xs md:text-sm lg:text-base xl:text-lg mb-3 md:mb-4 lg:mb-6 max-w-2xl mx-auto">
-          मनीक बहादुर सिंह आपकी सभी समस्याओं और सुझावों को सुनने के लिए तैयार हैं। 
+          मनिक बहादुर सिंह आपकी सभी समस्याओं और सुझावों को सुनने के लिए तैयार हैं। 
           आपकी आवाज़ हमारी प्राथमिकता है।
         </p>
         <div className="bg-gradient-to-r from-election-red to-election-yellow rounded-lg p-3 md:p-4 lg:p-6 xl:p-8 text-white">
