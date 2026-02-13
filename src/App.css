@@ -1,0 +1,4 @@
+/* Additional custom styles if needed */
+.candidate-image {
+  background: linear-gradient(135deg, #f4d03f 0%, #f39c12 100%);
+}
